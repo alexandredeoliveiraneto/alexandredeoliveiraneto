@@ -1,4 +1,4 @@
-- ### Olá, sou o Alexandre  👋 
+- ### Olá, sou o Alexandre De Oliveira, estudante de análise e desenvolvimento de sistemas 👋 
 - 👀 Tenho interesse em back-end
 - 🌱 Atualmente estou estudando python e POO
 - 📫 contato: alexandreoliveira.ge@yahoo.com
