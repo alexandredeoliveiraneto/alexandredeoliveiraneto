@@ -1,6 +1,6 @@
 - ### Olá, sou o Alexandre De Oliveira, estudante de análise e desenvolvimento de sistemas 👋 
-- 👀 Tenho interesse em back-end
-- 🌱 Atualmente estou estudando python e POO
+- 👀 Tenho interesse em full stack
+- 🌱 Atualmente estou estudando javaScript e react 
 - 📫 contato: alexandreoliveira.ge@yahoo.com
 
 
